@@ -99,7 +99,7 @@ Prerequisites: astro and docker must be installed for this to work.
 Deploy Your Project to Airflow
 =================================
 
-The File **CE20B043_Assignment_2.py** in the dags folder can be used in your airflow client's dag folder.
+The File **NA20B065_Assignment_2.py** in the dags folder can be used in your airflow client's dag folder.
  A File path system `my_file_system` must also be configured for the `wait_for_archive` operator to work.
 ### Prerequisite Packages required:
 #### Python packages
